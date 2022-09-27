@@ -11,7 +11,7 @@ import { DefaultApolloClient } from "@vue/apollo-composable";
 // HTTP connection to the API
 const httpLink = createHttpLink({
   // Adapt the URL depending of the swapi-graphql port
-  uri: "http://localhost:50887/graphiql",
+  uri: "http://localhost:50919/graphiql",
 });
 
 // Cache implementation
