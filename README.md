@@ -1,9 +1,18 @@
 # vue vite graphql setup
 using the api : https://github.com/graphql/swapi-graphql
 
-1/install and run the swapi-graphql app
-2/ report the port to line 14 from main.ts in the src of client app
-3/ run the client app
+
+1/ download the submodule from swapi-graphql link
+git clone --recurse-submodules https://github.com/graphql/swapi-graphql.git
+
+2/install and run the swapi-graphql module
+npm i
+npm start
+
+3/ report the port to line 14 from main.ts in the src of client app
+
+4/ run the client app
+npm run dev
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
