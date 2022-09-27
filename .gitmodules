@@ -1,6 +1,3 @@
-[submodule "vue-vite-graphql"]
-	path = vue-vite-graphql
-	url = https://github.com/keithCuniah/vue-vite-graphql.git
 [submodule "swapi-graphql"]
 	path = swapi-graphql
 	url = https://github.com/graphql/swapi-graphql.git
