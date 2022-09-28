@@ -2,7 +2,7 @@
 using the api : https://github.com/graphql/swapi-graphql
 
 
-1/ download the submodule from swapi-graphql link
+1/ download the submodule from swapi-graphql link :
 git clone --recurse-submodules https://github.com/graphql/swapi-graphql.git
 
 2/install and run the swapi-graphql module
